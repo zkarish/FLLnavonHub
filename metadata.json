@@ -1,0 +1,5 @@
+{
+  "name": "PlanIt.ai - Smart Project Planner",
+  "description": "An intelligent project planning tool that uses Gemini AI to break down your goals into actionable phases and tasks.",
+  "requestFramePermissions": []
+}
